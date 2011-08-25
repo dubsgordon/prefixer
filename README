@@ -1,0 +1,7 @@
+A simple tool which parses each line of the input file, converting infix expressiong to prefix expressions.
+
+Usage: ./prefixer [-r] input_file_name
+-r: Should the expression be reduced to simplist terms
+input_file_name: a file which contains an infix expression on each line
+STDOUT: each expression in prefix notation
+
